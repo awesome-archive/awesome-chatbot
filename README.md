@@ -15,10 +15,12 @@ A collection of awesome things regarding chat bots
 - [Cleverbot](http://www.cleverbot.com/)
 - [Sensay - The most helpful person you've never met](http://www.sensay.it/)
 - [Assist - Bring services to messaging apps](https://www.assi.st/)
+- [Botsociety - Chatbot design: preview, mockups, and export](https://botsociety.io)
 - [Notify - Conversational experiences that drive revenue] (http://www.notify.io)
 - [Backchannel - developer platform for building messaging bots] (http://dev.backchannel.net/)
 
 ## Big chatbot platforms
+- [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 - [Wechat official account](https://admin.wechat.com/)
 - [Slack](https://api.slack.com/bot-users)
 - [Facebook messenger](https://developers.facebook.com/docs/messenger-platform)
@@ -34,6 +36,7 @@ A collection of awesome things regarding chat bots
 ## Chatbot tools
 - [TuringRobot－The most intelligent robot brain](http://www.tuling123.com/)
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit)
+- [Broid - Multiple Messaging Channels with One OpenSource Language.](https://github.com/broidHQ/integrations/tree/master)
 
 ## Note:
 - Resources gathered during a hackathon
